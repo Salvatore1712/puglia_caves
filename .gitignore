@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Database
+*.db
+*.sqlite
+
+# Build
+dist/
+
+# System
+.DS_Store
